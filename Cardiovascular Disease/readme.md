@@ -6,4 +6,4 @@
 # Bibliotecas Utilizadas
 - Pandas
 - Seaborn
-- scikit-learn
+- Scikit-learn
