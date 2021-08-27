@@ -2,3 +2,8 @@
 
 # Projeto
 - No projeto, foi desenvolvido um modelo que prevê casos de problemas cardiovasculares, com base em alguns critérios biológicos de cada indivíduo.
+
+# Bibliotecas Utilizadas
+- Pandas
+- Seaborn
+- scikit-learn
