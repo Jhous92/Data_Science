@@ -1,7 +1,7 @@
  Dataset retirado do kaggle: [Cardiovascular Disease dataset](https://www.kaggle.com/sulianova/cardiovascular-disease-dataset) 
 
 # Projeto
-No projeto, foi desenvolvido um modelo que prevê casos de problemas cardiovasculares, com base em algumas características de cada indivíduo, como idade, altura, peso, pressão arterial, entre outros.
+No projeto, foi desenvolvido um modelo de classificação que prevê casos de problemas cardiovasculares, com base em algumas características de cada indivíduo, como idade, altura, peso, pressão arterial, entre outros.
 
 # Bibliotecas Utilizadas
 - Pandas
